@@ -1,0 +1,7 @@
+Existen 4 tipos posibles de funciones:
+
+Devuelve algo 	 - F1 - Recibe algo
+No devuelve nada - F2 - Recibe algo
+No devuelve nada - F3 - No Recibe nada
+Devuelve algo 	 - F4 - No Recibe nada
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1566837474 source:c:\users\alumno\desktop\clase 2\menudeopciones\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1567004255 source:d:\diazn\programacion_1_laboratorio_1\clase_02\trabajo realizado en clase\menudeopciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

@@ -1,0 +1,25 @@
+﻿Aquí van a ir mis apuntes de la clase 2:
+
+Función fflush(stdin):
+-Lo que hace es limpiar el enter que queda luego de un printf(","). Cosa que provoca que se salteé un printf.
+
+Función getch():
+-Sirve para tomar una respuesta e inmediatamente hacer algo al continuar.
+-La funcion getche() hace lo mismo pero deja el caracter que se escribió como eco (echo).
+-La funcion getchar() funciona como scanf(","), y espera a que presionemos enter para continuar con la funcion.
+
+Funcion strcpy("destino,origen"):
+-Sirve para copiar el contenido de una variable (o bien llamado String) y lo suma a otro.
+
+Variable flag (int flag = 0);
+-Sirve para tomar datos de un minimo y maximo cuando flag sea igual a 0.
+EJEMPLO:
+
+  if (nota < notaMaximo || flag == 0)
+  {
+    notaMaximo = nota;
+  }
+
+Librerias vistas:
+#include <ctype.h> = se utiliza para todas las funcionas de tipo caracter.
+#include <string.h>

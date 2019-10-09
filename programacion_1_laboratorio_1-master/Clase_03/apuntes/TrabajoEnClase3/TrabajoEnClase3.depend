@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1567129110 source:c:\nicofacultad\programacion_1_laboratorio_1\clase_03\apuntes\trabajoenclase3\main.c
+	<stdio.h>
+	<stdlib.h>
+
