@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1568646508 source:c:\users\alumno\desktop\vectorestructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1568664362 source:c:\nicofacultad\programacion_1_laboratorio_1\clase_08\ejerciciosenclase\vectorestructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1568846126 source:c:\nicofacultad\programacion_1_laboratorio_1\clase_09\trabajadoenclase\abm\abm.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	"ABM.h"
+
+1568846001 c:\nicofacultad\programacion_1_laboratorio_1\clase_09\trabajadoenclase\abm\abm.h
+
+1568842687 source:c:\nicofacultad\programacion_1_laboratorio_1\clase_09\trabajadoenclase\abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"ABM.h"
+
