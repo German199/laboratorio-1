@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1568646508 source:c:\users\alumno\desktop\vectorestructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1568664362 source:c:\nicofacultad\programacion_1_laboratorio_1\clase_08\ejerciciosenclase\vectorestructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1568846126 source:c:\nicofacultad\programacion_1_laboratorio_1\clase_09\trabajadoenclase\abm\abm.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	"ABM.h"
+
+1568846001 c:\nicofacultad\programacion_1_laboratorio_1\clase_09\trabajadoenclase\abm\abm.h
+
+1568842687 source:c:\nicofacultad\programacion_1_laboratorio_1\clase_09\trabajadoenclase\abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"ABM.h"
+
+1569242947 source:d:\diazn\programacion_1_laboratorio_1\clase_10\trabajadoenclase\abm\abm.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	"ABM.h"
+
+1569241721 d:\diazn\programacion_1_laboratorio_1\clase_10\trabajadoenclase\abm\abm.h
+
+1569242976 source:d:\diazn\programacion_1_laboratorio_1\clase_10\trabajadoenclase\abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"ABM.h"
+
+1569249904 source:d:\diazn\programacion_1_laboratorio_1\clase_10\trabajadoenclase\abmautolegajo\abm.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	"ABM.h"
+
+1569249126 d:\diazn\programacion_1_laboratorio_1\clase_10\trabajadoenclase\abmautolegajo\abm.h
+
+1569248851 source:d:\diazn\programacion_1_laboratorio_1\clase_10\trabajadoenclase\abmautolegajo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"ABM.h"
+
+1569265665 source:c:\nicofacultad\programacion_1_laboratorio_1\clase_10\trabajadoenclase\abmautolegajo\abm.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	"ABM.h"
+
+1569265665 c:\nicofacultad\programacion_1_laboratorio_1\clase_10\trabajadoenclase\abmautolegajo\abm.h
+
+1569265665 source:c:\nicofacultad\programacion_1_laboratorio_1\clase_10\trabajadoenclase\abmautolegajo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"ABM.h"
+
