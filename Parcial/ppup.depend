@@ -1,0 +1,153 @@
+# depslib dependency file v1.0
+1571188780 source:c:\users\el macho\desktop\ppup\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"color.h"
+	"validaciones.h"
+	"marca.h"
+
+1571188780 c:\users\el macho\desktop\ppup\auto.h
+	"color.h"
+	"marca.h"
+
+1571188780 c:\users\el macho\desktop\ppup\color.h
+
+1571188780 c:\users\el macho\desktop\ppup\marca.h
+
+1571188780 c:\users\el macho\desktop\ppup\validaciones.h
+	"auto.h"
+	"servicio.h"
+
+1571188780 c:\users\el macho\desktop\ppup\servicio.h
+
+1571188780 source:c:\users\el macho\desktop\ppup\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1571189652 source:c:\users\el macho\desktop\ppup\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"marca.h"
+	"fecha.h"
+	"color.h"
+	"auto.h"
+	"servicio.h"
+	"trabajo.h"
+
+1571188780 source:c:\users\el macho\desktop\ppup\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1571188780 source:c:\users\el macho\desktop\ppup\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"auto.h"
+	"trabajo.h"
+	"servicio.h"
+
+1571188780 c:\users\el macho\desktop\ppup\trabajo.h
+	"fecha.h"
+	"servicio.h"
+	"auto.h"
+
+1571188780 c:\users\el macho\desktop\ppup\fecha.h
+
+1571188780 source:c:\users\el macho\desktop\ppup\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"servicio.h"
+
+1571188830 source:c:\users\el macho\desktop\ppup\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+
+1571202443 source:c:\users\el macho\desktop\pp\ppup\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"marca.h"
+	"fecha.h"
+	"color.h"
+	"auto.h"
+	"servicio.h"
+	"trabajo.h"
+
+1571188780 c:\users\el macho\desktop\pp\ppup\validaciones.h
+	"auto.h"
+	"servicio.h"
+
+1571188780 c:\users\el macho\desktop\pp\ppup\auto.h
+	"color.h"
+	"marca.h"
+
+1571188780 c:\users\el macho\desktop\pp\ppup\color.h
+
+1571188780 c:\users\el macho\desktop\pp\ppup\marca.h
+
+1571188780 c:\users\el macho\desktop\pp\ppup\servicio.h
+
+1571188780 c:\users\el macho\desktop\pp\ppup\fecha.h
+
+1571201396 c:\users\el macho\desktop\pp\ppup\trabajo.h
+	"fecha.h"
+	"servicio.h"
+	"auto.h"
+
+1571201826 source:c:\users\el macho\desktop\pp\ppup\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"color.h"
+	"validaciones.h"
+	"marca.h"
+
+1571199470 source:c:\users\el macho\desktop\pp\ppup\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1571199305 source:c:\users\el macho\desktop\pp\ppup\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1571199305 source:c:\users\el macho\desktop\pp\ppup\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"auto.h"
+	"trabajo.h"
+	"servicio.h"
+
+1571199305 source:c:\users\el macho\desktop\pp\ppup\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"servicio.h"
+
+1571199319 source:c:\users\el macho\desktop\pp\ppup\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+
